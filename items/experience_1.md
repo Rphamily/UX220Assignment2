@@ -7,7 +7,7 @@ Best Buy
 - This was November of 201, I was on a contract for 2 months.
 
 3. What was good about it? <br>
-- They had lots of perks and and also great people who worked there.
+- They had lots of perks and and also great people who worked there. The sales experienced helped with my current job.
 
 4. What was your favourite memory of it? <br>
 - I met a lot of people there and enjoyed it everytime I worked.
