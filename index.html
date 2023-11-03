@@ -14,27 +14,54 @@
         --main-background: #7900FA;
         --main-foreground: #ffffff;
         --pane-padding: 5px 42px;
+        --bg-black: black;
+        --font-purple: #7900FA;
+        --font-white: white;
     }
 
+    .bgblack .navbar-nav .nav-link {
+        color: var(--font-purple);
+    }
+
+    .bgblack .navbar-nav .nav-link:hover {
+        color: var(--font-white);
+    }
+    
+    .bgblack .navbar-brand {
+        color: var(--font-purple);
+        font-size: 30px;
+    }
+    
+   
     
 
     body{
         background-color: var(--main-background);
         foreground-color: var(--main-foreground);
         font-family: 'Indie Flower', cursive;
-        color: white;
+        color: var(--font-white);
         font-size: 24px;
     }
 
+    .bgblack{
+        background: var(--bg-black);
+    }
+   
+    
     h1,h2,h3,h4{
         font-family: 'Anton', sans-serif;
+    }
+    
+    h1{
+        margin-top: 5%;
+        margin-bottom: 5%;
     }
 
     footer{
     background-color: #FAA700;
     min-height: 4vh;
     text-align: center;
-
+    margin-top: 5%;
     }
     
 
@@ -44,7 +71,7 @@
 
 <body>
     <header>
-        <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-md navbar-dark bgblack">
             <a class="navbar-brand" href="#">Ryan Pham</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04"
                 aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
