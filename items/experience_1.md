@@ -2,7 +2,7 @@
 <h2>Best Buy</h2>
 <br>
 <h4>1. What was it that you did?</h4>
-- I was a sales associate selling smarthome, cellphones, and headphones. 
+- I was a sales associate selling smart home items, cellphones, and headphones. 
 <br>
 <h4>2. When did you do it?</h4>
 - This was November of 201, I was on a contract for 2 months.
