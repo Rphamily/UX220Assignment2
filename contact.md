@@ -1,1 +1,1 @@
-Contact information here
+<h3>Contact information here</h3>
